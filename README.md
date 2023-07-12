@@ -28,3 +28,4 @@
 | 7월 9일  |  🟣  | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day07) |
 | 7월 10일 |  🟣  | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day08) |
 | 7월 11일 |  🟣  | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day09) |
+| 7월 12일 |  🟣  | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day10) |
