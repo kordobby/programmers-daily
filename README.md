@@ -31,3 +31,4 @@
 | 7월 12일 | day +10 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day10) |
 | 7월 13일 | day +11 | 🟣 🟣 | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day11) |
 | 7월 14일 | day +12 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day12) |
+| 7월 15일 | day +13 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day13) |
