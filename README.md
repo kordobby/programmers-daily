@@ -36,3 +36,4 @@
 | 7월 17일 | day +15 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day15) |
 | 7월 18일 | day +16 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day16) |
 | 7월 19일 | day +17 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day17) |
+| 7월 20일 | day +18 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day18) |
