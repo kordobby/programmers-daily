@@ -40,4 +40,5 @@
 | 7월 21일 | day +19 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day19) |
 | 7월 22일 | day +20 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day20) |
 | 7월 23일 | day +21 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day21) |
-| 7월 24일 | day +22 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day21) |
+| 7월 24일 | day +22 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day22) |
+| 7월 25일 | day +23 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day23) |
