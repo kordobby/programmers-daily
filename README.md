@@ -48,3 +48,4 @@
 | 7월 29일 | day +27 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day27) |
 | 7월 30일 | day +28 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day28) |
 | 7월 31일 | day +29 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day29) |
+| 8월 1일  | day +30 |       | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day30) |
