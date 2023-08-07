@@ -54,3 +54,4 @@
 | 8월 3일  | day +33 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day33) |
 | 8월 3일  | day +34 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day34) |
 | 8월 4일  | day +35 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day35) |
+| 8월54일  | day +36 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day36) |
