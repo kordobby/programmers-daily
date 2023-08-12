@@ -50,8 +50,12 @@
 | 7월 31일 | day +29 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day29) |
 | 8월 1일  | day +30 |  ⚫   |                                                                      |
 | 8월 2일  | day +31 |  ⚫   |                                                                      |
-| 8월 2일  | day +32 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day32) |
-| 8월 3일  | day +33 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day33) |
-| 8월 3일  | day +34 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day34) |
-| 8월 4일  | day +35 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day35) |
-| 8월54일  | day +36 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day36) |
+| 8월 3일  | day +32 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day32) |
+| 8월 4일  | day +33 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day33) |
+| 8월 5일  | day +34 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day34) |
+| 8월 6일  | day +35 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day35) |
+| 8월 7일  | day +36 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day36) |
+| 8월 8일  | day +37 |  🟡   |                                                                      |
+| 8월 9일  | day +38 |  🟡   |                                                                      |
+| 8월 10일 | day +39 |  🟡   |                                                                      |
+| 8월 11일 | day +40 |  🟣   | [👉🏻 풀이 바로가기](https://leetrue-log.vercel.app/pargrammers-day40) |
